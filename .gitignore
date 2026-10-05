@@ -1,4 +1,4 @@
-# For PCBs designed using KiCad: https://www.kicad.org/
+7# For PCBs designed using KiCad: https://www.kicad.org/
 # Format documentation: https://kicad.org/help/file-formats/
 
 # Temporary files
@@ -13,6 +13,106 @@
 *-bak*
 *~
 ~*
+{
+  "exported_at": "2026-10-05T14:24:21.655098992+00:00",
+  "file_name": "EYI Package_10-05-2026_1791210261.zip",
+  "workspace_files": [
+    {
+      "source": "artifact",
+      "workspace_path": "workspace/goals/careback-america-3m-seed-campaign/files/careback-america-logo.webp",
+      "bundled_file_path": "workspace/goals/careback-america-3m-seed-campaign/files/careback-america-logo.webp",
+      "size_bytes": 318814,
+      "unresolved_reason": null
+    },
+    {
+      "source": "artifact",
+      "workspace_path": "workspace/goals/careback-america-3m-seed-campaign/files/careback-association-papers.html",
+      "bundled_file_path": "workspace/goals/careback-america-3m-seed-campaign/files/careback-association-papers.html",
+      "size_bytes": 6450,
+      "unresolved_reason": null
+    },
+    {
+      "source": "artifact",
+      "workspace_path": "workspace/goals/careback-america-3m-seed-campaign/files/careback-papers-signable.html",
+      "bundled_file_path": "workspace/goals/careback-america-3m-seed-campaign/files/careback-papers-signable.html",
+      "size_bytes": 6064,
+      "unresolved_reason": null
+    },
+    {
+      "source": "artifact",
+      "workspace_path": "workspace/goals/careback-america-3m-seed-campaign/files/careback-papers-signable.pdf",
+      "bundled_file_path": "workspace/goals/careback-america-3m-seed-campaign/files/careback-papers-signable.pdf",
+      "size_bytes": 54419,
+      "unresolved_reason": null
+    },
+    {
+      "source": "artifact",
+      "workspace_path": "workspace/goals/careback-america-3m-seed-campaign/files/careback-papers-signed.pdf",
+      "bundled_file_path": "workspace/goals/careback-america-3m-seed-campaign/files/careback-papers-signed.pdf",
+      "size_bytes": 125573,
+      "unresolved_reason": null
+    },
+    {
+      "source": "artifact",
+      "workspace_path": "workspace/goals/careback-america-3m-seed-campaign/files/commercial/.thumbnails/media-generation-careback-commercial-endcard-0-0f7edf27-33e8-49dc-b2be-86e833ec7118.jpg",
+      "bundled_file_path": "workspace/goals/careback-america-3m-seed-campaign/files/commercial/.thumbnails/media-generation-careback-commercial-endcard-0-0f7edf27-33e8-49dc-b2be-86e833ec7118.jpg",
+      "size_bytes": 163039,
+      "unresolved_reason": null
+    },
+    {
+      "source": "artifact",
+      "workspace_path": "workspace/goals/careback-america-3m-seed-campaign/files/commercial/.thumbnails/media-generation-careback-commercial-scene1-0-53038005-0eea-4427-85c7-118355881b16.jpg",
+      "bundled_file_path": "workspace/goals/careback-america-3m-seed-campaign/files/commercial/.thumbnails/media-generation-careback-commercial-scene1-0-53038005-0eea-4427-85c7-118355881b16.jpg",
+      "size_bytes": 145461,
+      "unresolved_reason": null
+    },
+    {
+      "source": "artifact",
+      "workspace_path": "workspace/goals/careback-america-3m-seed-campaign/files/commercial/.thumbnails/media-generation-careback-commercial-scene2-0-8abd7526-d4df-4b29-87d4-bc8af225bbad.jpg",
+      "bundled_file_path": "workspace/goals/careback-america-3m-seed-campaign/files/commercial/.thumbnails/media-generation-careback-commercial-scene2-0-8abd7526-d4df-4b29-87d4-bc8af225bbad.jpg",
+      "size_bytes": 125431,
+      "unresolved_reason": null
+    },
+    {
+      "source": "artifact",
+      "workspace_path": "workspace/goals/careback-america-3m-seed-campaign/files/commercial/.thumbnails/media-generation-careback-commercial-scene3-0-0f5fd720-e9cd-4933-9682-963f6fcd4cce.jpg",
+      "bundled_file_path": "workspace/goals/careback-america-3m-seed-campaign/files/commercial/.thumbnails/media-generation-careback-commercial-scene3-0-0f5fd720-e9cd-4933-9682-963f6fcd4cce.jpg",
+      "size_bytes": 96389,
+      "unresolved_reason": null
+    },
+    {
+      "source": "artifact",
+      "workspace_path": "workspace/goals/careback-america-3m-seed-campaign/files/commercial/.thumbnails/media-generation-careback-commercial-warm-endca-0-25b14122-31c5-4d2b-af69-8686f1eb995b.jpg",
+      "bundled_file_path": "workspace/goals/careback-america-3m-seed-campaign/files/commercial/.thumbnails/media-generation-careback-commercial-warm-endca-0-25b14122-31c5-4d2b-af69-8686f1eb995b.jpg",
+      "size_bytes": 162904,
+      "unresolved_reason": null
+    },
+    {
+      "source": "artifact",
+      "workspace_path": "workspace/goals/careback-america-3m-seed-campaign/files/commercial/.thumbnails/media-generation-careback-commercial-warm-scene-0-5adb08f7-6c1c-43b1-8687-5556aefee57a.jpg",
+      "bundled_file_path": "workspace/goals/careback-america-3m-seed-campaign/files/commercial/.thumbnails/media-generation-careback-commercial-warm-scene-0-5adb08f7-6c1c-43b1-8687-5556aefee57a.jpg",
+      "size_bytes": 134574,
+      "unresolved_reason": null
+    },
+    {
+      "source": "artifact",
+      "workspace_path": "workspace/goals/careback-america-3m-seed-campaign/files/commercial/.thumbnails/media-generation-careback-commercial-warm-scene-0-9c5dd5d0-4f2c-42a1-a7b5-9f17e55ba090.jpg",
+      "bundled_file_path": "workspace/goals/careback-america-3m-seed-campaign/files/commercial/.thumbnails/media-generation-careback-commercial-warm-scene-0-9c5dd5d0-4f2c-42a1-a7b5-9f17e55ba090.jpg",
+      "size_bytes": 148896,
+      "unresolved_reason": null
+    },
+    {
+      "source": "artifact",
+      "workspace_path": "workspace/goals/careback-america-3m-seed-campaign/files/commercial/.thumbnails/media-generation-careback-commercial-warm-scene-0-ac33fa07-c290-48f4-95b5-9e7b5f527aba.jpg",
+      "bundled_file_path": "workspace/goals/careback-america-3m-seed-campaign/files/commercial/.thumbnails/media-generation-careback-commercial-warm-scene-0-ac33fa07-c290-48f4-95b5-9e7b5f527aba.jpg",
+      "size_bytes": 130057,
+      "unresolved_reason": null
+    },
+    {
+      "source": "artifact",
+      "workspace_path": "workspace/goals/careback-america-3m-seed-campaign/files/commercial/careback-america-commercial-warm.mp4",
+      "bundled_file_path": "workspace/goals/careback-america-3m-seed-campaign/files/commercial/careback-america-commercial-warm.mp4",
+      "size_bytes": 7551332,
 _autosave-*
 \#auto_saved_files\#
 *.tmp
